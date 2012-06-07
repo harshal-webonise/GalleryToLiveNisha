@@ -1,4 +1,4 @@
-
+//FIle for Game of Raja mantri Chor,Sipahi 12313
 public class rajamantri extends ACTIVITY
 {
     @Override
@@ -591,7 +591,7 @@ public class rajamantri extends ACTIVITY
 			if(player1.equals("chor")){
 			    
 			    playerOneRole = "chor";
-						}
+							}
 			
 			
 			nextTurn = westPlayerName + "'s" + " turn!";
